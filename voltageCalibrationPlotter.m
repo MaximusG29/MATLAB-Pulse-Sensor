@@ -1,5 +1,4 @@
-%Max Goodrich 11/27/2022 Voltage Calibration Plotting Thing (I should come
-%up with a more elegant name)
+%Max Goodrich 11/27/2022 Voltage Calibration Plotting Thing (I should come up with a more elegant name)
 clear; clc;
 
 %create arduino object and specify pin used
